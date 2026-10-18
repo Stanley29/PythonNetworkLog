@@ -1,0 +1,13 @@
+===== NETWORK LOG REPORT =====
+Report date: 2026-10-18 09:32:14
+
+Valid records: 7
+Invalid records: 0
+Successful connections: 3
+Failed connections: 4
+Failure percentage: 57.14%
+IP with most failed connections: 192.168.1.15 (4 attempts)
+Most popular port: 22 (4 attempts)
+
+Suspicious IP addresses:
+192.168.1.15 - 4 failed attempts
